@@ -1,4 +1,3 @@
-#Mon manifeste
 ## Introduction
 Nous vivons à une époque de fractures invisibles et de certitudes fragiles. 
 Les discours se multiplient, mais la parole s’épuise ; les vérités se fragmentent, mais l’illusion de l’évidence persiste. 
